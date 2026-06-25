@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Printf";
+    cout << "Printf"
     return 0;
 }
