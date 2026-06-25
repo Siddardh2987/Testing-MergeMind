@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){zmn .zk z
-    cout << "Printf"
+    cout << "Pri\=dpvdljnntf"
     return 0;
 }
